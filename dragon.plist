@@ -13,7 +13,7 @@
                             <string>software-package</string>
                             <key>url</key>
                             <!-- http或者https链接的ipa文件地址 -->
-                            <string>https://gitee.com/originbook/dragon/dragon.ipa</string>
+                            <string>https://github.com/originbook/dragon/raw/master/dragon.ipa</string>
                         </dict>
                         <dict>
                             <key>kind</key>
